@@ -4,10 +4,8 @@ PPG_analysis by emotion / 생체신호 기반 감정에 따른 영상평가지�
 PPG(Photoplethysmography)기반 생체신호를 이용한 영상평가지표 설계
 
 ## 측정 방법 및 하드웨어
-![image](https://user-images.githubusercontent.com/72767245/97099001-cfc40d80-16c6-11eb-8baa-d67175f17fa1.png)
+![image](https://user-images.githubusercontent.com/72767245/97099017-f97d3480-16c6-11eb-9ee4-f6572329b609.png) ![image](https://user-images.githubusercontent.com/72767245/97099026-10bc2200-16c7-11eb-8041-d2b436b58b88.png)
 
-![image](https://user-images.githubusercontent.com/72767245/97099017-f97d3480-16c6-11eb-9ee4-f6572329b609.png)
-![image](https://user-images.githubusercontent.com/72767245/97099026-10bc2200-16c7-11eb-8041-d2b436b58b88.png)
 Idaq 400으로 측정
 
 ## 분석 알고리즘
